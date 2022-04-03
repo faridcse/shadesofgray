@@ -1,0 +1,91 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+	/* header */
+	.menu ul li {
+    text-align: right;
+	}
+	/* best-we */
+	.best-we {
+    padding: 30px 0;
+	}
+	.best-we-inner {
+    margin-bottom: 30px;
+	}
+	/* why-choose-us */
+	.why-choose-us-inner {
+    padding: 0 15px;
+	}
+
+	/* what-we-do */
+	.what-we-do {
+    margin-bottom: 30px;
+	}
+
+	/* how-we-work */
+	.how-we-work {
+    padding: 30px 0;
+	}
+
+	/* meet-our-team */
+	.team-left img {
+    margin-top: 0
+	}
+	.team-name {
+    margin-top: 0;    
+	}
+
+	.team-designation {
+    margin-top: -20px;    
+	}
+	.mb-85 {
+    margin-bottom: 25px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px){ 
+	/* header */
+	.menu ul li {
+    text-align: right;
+	}
+
+	/* best-we */
+	.best-we {
+    padding: 30px 0;
+	}
+	.best-we-inner {
+    margin-bottom: 30px;
+	}
+
+	/* why-choose-us */
+	.why-choose-us-inner {
+    padding: 0 15px;
+	}
+
+	/* how-we-work */
+	.how-we-work {
+    padding: 30px 0;
+	}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){ 
+	/* header */
+	.menu ul li {
+    text-align: right;
+	}
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px){ 
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+
+
+ /* Extra extra large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px){ 
+
+ }

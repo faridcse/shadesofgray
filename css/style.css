@@ -424,3 +424,49 @@ header{}
 	transform: rotate(180deg)
 }
 /* quality-of-our-work section css end */
+
+
+
+
+/* footer section css start */
+footer{
+	background-color: #555555;
+	padding-top: 35px;
+}
+.footer-top{}
+.footer-1{}
+.footer-1 img{
+	max-width: 170px;
+}
+.f_social_icon{}
+.f_social_icon ul li a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	border-radius: 50%;
+	font-size: 18px;
+	color: #555555;
+	background-color: #b6b6b6;
+	text-align: center;
+	transition: 0.3s;
+}
+.f_social_icon ul li a:hover{
+	color: #fff;
+	background-color: #b6b6b6;
+}
+.address{}
+.address h3{}
+.address p{}
+.address span{}
+
+.usefullinks{}
+.usefullinks ul li a{}
+.usefullinks ul li a:hover{}
+.contact{}
+.copyright{}
+.copyright p{}
+/* footer section css end */
+/* footer section css end */
+/* footer section css end */
+/* footer section css end */

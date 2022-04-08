@@ -5,12 +5,7 @@
     text-align: right;
 	}
 	/* best-we */
-	.best-we {
-    padding: 30px 0;
-	}
-	.best-we-inner {
-    margin-bottom: 30px;
-	}
+
 	/* why-choose-us */
 	.why-choose-us-inner {
     padding: 0 15px;
@@ -40,6 +35,11 @@
 	.mb-85 {
     margin-bottom: 25px;
 	}
+
+	/* footer */
+	.contact {
+    	padding: 10px;
+	}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -50,12 +50,7 @@
 	}
 
 	/* best-we */
-	.best-we {
-    padding: 30px 0;
-	}
-	.best-we-inner {
-    margin-bottom: 30px;
-	}
+
 
 	/* why-choose-us */
 	.why-choose-us-inner {

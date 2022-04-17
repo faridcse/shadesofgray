@@ -1,1 +1,1 @@
-# shadesofgray
+https://faridcse.github.io/shadesofgray/
